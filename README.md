@@ -1,4 +1,9 @@
 # Web3Mason (W3M) Token Smart Contracts
+  - Name: Web3Mason;
+  - Symbol: W3M;
+  - Decimals: 18;
+  - Total Supply: 100,000,000,000 W3M;
+  - Smart Contract (Ethereum Goerli): [0xcB289B4200BA390D3e13f49dC78A076539F3A044](https://goerli.etherscan.io/token/0xcB289B4200BA390D3e13f49dC78A076539F3A044).
 
 
 ## Smart Contracts Goerly
